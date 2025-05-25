@@ -13,7 +13,7 @@ PDF Report: Downloads a detailed report summarizing the analysis.
 Installation
 
 Clone the Repository:
-git clone https://github.com/your-username/resume-critique-pro.git
+git clone https://github.com/Yashvia/ai-resume-critique-tool.git
 cd resume-critique-pro
 
 
